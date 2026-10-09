@@ -1,86 +1,70 @@
-<h1 align="center">Hi, I'm Mansi Chaudhari 👋</h1>
-<h3 align="center">Supply Chain Analyst | Turning demand, inventory & logistics data into smarter planning decisions</h3>
+# Hi, I'm Mansiben Chaudhari 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mansiben-chaudhari/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mansichaudhary112234@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
+### Supply Chain Analyst | Turning demand, inventory & logistics data into smarter planning decisions
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mansiben-chaudhari/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mansichaudhary112234@gmail.com)
 
 ---
 
 ### 🧑‍💻 About Me
 
-I'm a data analyst focused on healthcare and marketplace analytics, and a recent graduate with a Master's in Computer Science & Engineering from the University of Fairfax. I like taking large, messy datasets and turning them into dashboards, models, and reports that people actually use to make decisions. Recent work includes claims data variance analysis, demand forecasting, and cutting manual reporting effort through automated dashboards.
+I'm Mansi, a supply chain analyst who likes figuring out why inventory, demand, and shipments don't line up, and then fixing it. For the past 4 years I've worked on forecasting, inventory planning, procurement, and logistics, first in manufacturing at Orexon and now at FedEx. Day to day I use SQL, Excel, and Power BI to turn messy data into dashboards and plans that help teams avoid stockouts, cut excess stock, and keep shipments on track. I also finished my Master's in Computer Science & Engineering at the University of Fairfax, so I'm comfortable going deeper with Python and forecasting models when a problem needs it.
 
+- 🚚 Currently: Supply Chain Analyst at FedEx (IL), focused on inventory planning, forecasting, and transportation performance
+- 🏭 Previously: Supply Chain Analyst at Orexon Manufacturing, covering MRP, S&OP, procurement, and production planning
 - 🎓 Master of Computer Science & Engineering, University of Fairfax (2024–2026)
-- 🔭 Currently working on data analytics projects in marketplace intelligence and demand forecasting
-- 🌱 Learning: advanced data engineering and cloud-based analytics pipelines
-- 💬 Ask me about: SQL query optimization, dashboarding, or exploratory data analysis
-- 📫 Reach me: mansichaudhary112234@gmail.com
+- 🌱 Learning: advanced forecasting and cloud-based analytics pipelines
+- 💬 Ask me about: safety stock and reorder point analysis, demand forecasting, S&OP, KPI dashboards, or SQL
+- 📫 Reach me: <mansichaudhary112234@gmail.com>
+
+---
+
+### 📈 What I Bring to Supply Chain Teams
+
+- **Demand & Supply Planning:** forecasting, demand-supply analysis, MRP, S&OP, capacity planning
+- **Inventory Optimization:** safety stock, reorder points, cycle stock, excess & obsolete analysis, inventory accuracy
+- **Procurement & Logistics:** supplier coordination, shipment tracking, transportation management, carrier cost and variance analysis
+- **Analytics & Reporting:** KPI analysis, root cause analysis, trend analysis, automated operational dashboards
 
 ---
 
 ### 🛠️ Skills
 
-**Programming & Data Science**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+**Data & Reporting**
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)](#) [![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)](#) [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)](#) [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](#)
+Power Query · Pivot Tables · XLOOKUP / INDEX-MATCH · KPI Reporting
 
-**Big Data & Machine Learning**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
+**Programming & Forecasting**
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](#) [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](#) [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](#) [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)](#)
 
-**Cloud & Databases**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
-
-**Visualization & Tools**
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+**Planning & Operations**
+Demand Planning · Supply Planning · MRP · S&OP · Production Planning · Capacity Planning · Inventory Optimization · Procurement Planning · Transportation Management
 
 ---
 
 ### 🚀 Featured Projects
 
 **[Marketplace Analytics & Conversion Optimization](#)**
-Built an end-to-end analytics pipeline on large-scale marketplace data (user behavior, inventory, pricing) using SQL and Python. Designed interactive dashboards tracking conversion funnel, inventory performance, and pricing trends — improved listing engagement and conversion rates by 25% and cut manual reporting effort by 40%.
+Extracted and transformed large-scale marketplace data (user behavior, inventory, pricing) using SQL and Python, driving a 25% lift in listing engagement and conversion. Built interactive Power BI/Tableau dashboards tracking the conversion funnel, inventory performance, and pricing trends, cutting manual reporting effort by 40%.
 `Python` `SQL` `Power BI` `Tableau`
 
 **[Customer Behavior Analysis & Demand Forecasting](#)**
-Engineered a cohort segmentation and EDA pipeline to analyze user interaction data (search, clicks, conversions), identifying high-value customer segments. Built predictive models using Scikit-learn to forecast demand and optimize inventory planning, reducing overstock and understock risk.
+Built a cohort segmentation and EDA pipeline in Python and SQL on user interaction data, lifting targeting effectiveness by 20%. Developed Scikit-learn models to forecast demand and optimize inventory planning, reducing overstock and understock risk.
 `Python` `Scikit-learn` `SQL` `Excel`
-
-> Replace the `#` links above with your actual repo URLs once you push these projects.
 
 ---
 
 ### 📜 Certifications
 
-- **Google Data Analytics Professional Certificate** — hands-on training in data cleaning, analysis, and visualization using SQL, Excel, and Tableau.
+- **Google Data Analytics Professional Certificate**: hands-on training in data cleaning, analysis, and visualization using SQL, Excel, and Tableau.
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mansichaudhari112234-web&show_icons=true&theme=default)
 
 ---
 
-<p align="center"><i>Thanks for stopping by — let's connect!</i></p>
+*Thanks for stopping by, let's connect!*
+
