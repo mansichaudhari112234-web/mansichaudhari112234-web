@@ -1,4 +1,4 @@
-                               # Hi, I'm Mansiben Chaudhari 👋
+# Hi, I'm Mansiben Chaudhari 👋
 
 ### Supply Chain Analyst | Turning demand, inventory & logistics data into smarter planning decisions
 
