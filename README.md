@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mansi Chaudhari 👋</h1>
-<h3 align="center">Data Analyst | Turning messy data into clear, actionable insights</h3>
+<h3 align="center">Supply Chain Analyst | Turning demand, inventory & logistics data into smarter planning decisions</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mansiben-chaudhari/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
